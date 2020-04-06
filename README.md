@@ -1,1 +1,3 @@
 # UpliftModel
+
+About Marketing method
